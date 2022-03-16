@@ -1,7 +1,7 @@
 # FlipperZeroCases
 3d Printable Flipper Zero Cases
 
-![THICCBOI9000](https://github.com/MuddledBox/FlipperZeroCases/blob/main/Images/THICCINSIDE.jpg)
+![THICCBOI9000](https://github.com/MuddledBox/FlipperZeroCases/blob/main/Images/THICCBOY-KeyShot.png)
 
 Here's some really early 3d printable flipper cases! 
 
